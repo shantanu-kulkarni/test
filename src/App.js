@@ -65,7 +65,7 @@ cursor: 'pointer'
         <Person 
         name={currentState.persons[1].name} 
         age={currentState.persons[1].age}
-        click={() => switchNameHandler("Ravi")} >Hobbies: Driving</Person>
+        click={() => switchNameHandler("Ravi")} >Hobbies: Swimming</Person>
         
         <Person 
         name={currentState.persons[2].name} 
